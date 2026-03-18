@@ -1,0 +1,31 @@
+installation:
+  version: 6.2.0
+  installDate: 2026-03-18T16:27:43.988Z
+  lastUpdated: 2026-03-18T16:27:43.988Z
+modules:
+  - name: core
+    version: 6.2.0
+    installDate: 2026-03-18T16:27:43.118Z
+    lastUpdated: 2026-03-18T16:27:43.118Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: bmm
+    version: 6.2.0
+    installDate: 2026-03-18T16:27:39.214Z
+    lastUpdated: 2026-03-18T16:27:43.118Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: bmb
+    version: 1.0.2
+    installDate: 2026-03-18T16:27:41.751Z
+    lastUpdated: 2026-03-18T16:27:43.988Z
+    source: external
+    npmPackage: bmad-builder
+    repoUrl: https://github.com/bmad-code-org/bmad-builder
+ides:
+  - claude-code
+  - cursor
+  - cline
+  - github-copilot

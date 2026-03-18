@@ -41,9 +41,9 @@ Any contribution should be provided with a `changesets` update:
 npx changeset
 ```
 
-[ci-badge]: https://github.com/toomuchdesign/npm-package-template/actions/workflows/ci.yml/badge.svg
-[ci]: https://github.com/toomuchdesign/npm-package-template/actions/workflows/ci.yml
-[coveralls-badge]: https://coveralls.io/repos/github/toomuchdesign/npm-package-template/badge.svg?branch=master
-[coveralls]: https://coveralls.io/github/toomuchdesign/npm-package-template?branch=master
-[npm]: https://www.npmjs.com/package/@toomuchdesign/npm-package-template
-[npm-version-badge]: https://img.shields.io/npm/v/@toomuchdesign/npm-package-template.svg
+[ci-badge]: https://github.com/toomuchdesign/portfolio-tracker-bmad/actions/workflows/ci.yml/badge.svg
+[ci]: https://github.com/toomuchdesign/portfolio-tracker-bmad/actions/workflows/ci.yml
+[coveralls-badge]: https://coveralls.io/repos/github/toomuchdesign/portfolio-tracker-bmad/badge.svg?branch=master
+[coveralls]: https://coveralls.io/github/toomuchdesign/portfolio-tracker-bmad?branch=master
+[npm]: https://www.npmjs.com/package/@toomuchdesign/portfolio-tracker-bmad
+[npm-version-badge]: https://img.shields.io/npm/v/@toomuchdesign/portfolio-tracker-bmad.svg
